@@ -1,10 +1,10 @@
 # PyChain 
 
-## 1. Streamlit application sample screens
+## 1. Streamlit application screen
 
 ![Application Interface](./Resources/1.Challenge18.png)
 
-## 2. PyChain sample with multiple blocks
+## 2. PyChain with multiple blocks
 
 ![Blockchain sample with multiple blocks](./Resources/2.PyChain_with_multiple_blocks.png)
 
